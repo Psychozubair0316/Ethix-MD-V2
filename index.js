@@ -21,7 +21,7 @@ import config from './config.cjs';
 import pkg from './lib/autoreact.cjs';
 const { emojis, doReact } = pkg;
 
-const sessionName = "session";
+const sessionName = "Ethix-MD&HsZ4Y8pU";
 const app = express();
 const orange = chalk.bold.hex("#FFA500");
 const lime = chalk.bold.hex("#32CD32");
